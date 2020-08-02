@@ -11,7 +11,7 @@
 📍 Optimized with Webpack\
 📍 Well organized documentation
 
-To view a demo example, **[click here](https://manhal-portfolio.netlify.app/)**\
+To view a demo example, **[click here](https://manhal-portfolio.netlify.app/)**
 
 ---
 

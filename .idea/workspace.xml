@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca845e6b-80ec-4069-89cc-f5a75ce85804" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,8 +57,16 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596329826629</updated>
-      <workItem from="1596329828118" duration="10747000" />
+      <workItem from="1596329828118" duration="10852000" />
     </task>
+    <task id="LOCAL-00001" summary="final touches 2">
+      <created>1596341502043</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1596341502043</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -68,12 +74,18 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="final touches 2" />
+    <option name="LAST_COMMIT_MESSAGE" value="final touches 2" />
   </component>
   <component name="WindowStateProjectService">
     <state x="267" y="177" key="#Inspections" timestamp="1596331340336">
       <screen x="0" y="23" width="1280" height="964" />
     </state>
     <state x="267" y="177" key="#Inspections/0.23.1280.964@0.23.1280.964" timestamp="1596331340336" />
+    <state x="181" y="23" key="CommitChangelistDialog2" timestamp="1596341501861">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state x="181" y="23" key="CommitChangelistDialog2/0.23.1280.964@0.23.1280.964" timestamp="1596341501861" />
     <state width="998" height="219" key="GridCell.Tab.0.bottom" timestamp="1596330906915">
       <screen x="0" y="23" width="1280" height="964" />
     </state>
@@ -94,9 +106,9 @@
       <screen x="0" y="23" width="1280" height="964" />
     </state>
     <state x="37" y="57" key="SettingsEditor/0.23.1280.964@0.23.1280.964" timestamp="1596330458557" />
-    <state x="140" y="182" key="Vcs.Push.Dialog.v2" timestamp="1596339526224">
+    <state x="140" y="182" key="Vcs.Push.Dialog.v2" timestamp="1596341510820">
       <screen x="0" y="23" width="1280" height="964" />
     </state>
-    <state x="140" y="182" key="Vcs.Push.Dialog.v2/0.23.1280.964@0.23.1280.964" timestamp="1596339526224" />
+    <state x="140" y="182" key="Vcs.Push.Dialog.v2/0.23.1280.964@0.23.1280.964" timestamp="1596341510820" />
   </component>
 </project>
