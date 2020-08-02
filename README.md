@@ -17,7 +17,8 @@ To view a demo example, **[click here](https://manhal-portfolio.netlify.app/)**
 
 ## Getting Started 🚀
 
-Ces instructions vous permettront d'obtenir une copie du projet sur votre ordinateur local à des fins de développement et de test. Voir déploiement pour des notes sur la façon de déployer le projet sur un système en direct.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
 
 ### Prerequisites 📋
 
