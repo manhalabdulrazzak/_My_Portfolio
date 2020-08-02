@@ -1,11 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ca845e6b-80ec-4069-89cc-f5a75ce85804" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/_My_Portfolio.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/favicon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/profile.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/project.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/raqqa-rwb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/turkeyrsd.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/assets/wardbookstore.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/assignProps.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/sr.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/js/tilt.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/abstracts/_helpers.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/abstracts/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/abstracts/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/base/_base.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/base/_typography.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/components/_buttons.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/layout/_footer.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/layout/_sections.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/main.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/sections/_about.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/sections/_contact.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/sections/_hero.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/sections/_projects.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/style/vendors/_bootstrap.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/vendor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/yarn.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
   <component name="ComposerSettings">
-    <execution>
-      <executable />
-    </execution>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1fWNKh9cmXAfZajOVuGS9oURlam" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="TERMINAL_CUSTOM_COMMANDS_GOT_IT" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca845e6b-80ec-4069-89cc-f5a75ce85804" name="Default Changelist" comment="" />
+      <created>1596329826629</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596329826629</updated>
+      <workItem from="1596329828118" duration="7042000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="267" y="177" key="#Inspections" timestamp="1596331340336">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state x="267" y="177" key="#Inspections/0.23.1280.964@0.23.1280.964" timestamp="1596331340336" />
+    <state width="998" height="219" key="GridCell.Tab.0.bottom" timestamp="1596330906915">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state width="998" height="219" key="GridCell.Tab.0.bottom/0.23.1280.964@0.23.1280.964" timestamp="1596330906915" />
+    <state width="998" height="219" key="GridCell.Tab.0.center" timestamp="1596330906914">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state width="998" height="219" key="GridCell.Tab.0.center/0.23.1280.964@0.23.1280.964" timestamp="1596330906914" />
+    <state width="998" height="219" key="GridCell.Tab.0.left" timestamp="1596330906913">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state width="998" height="219" key="GridCell.Tab.0.left/0.23.1280.964@0.23.1280.964" timestamp="1596330906913" />
+    <state width="998" height="219" key="GridCell.Tab.0.right" timestamp="1596330906915">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state width="998" height="219" key="GridCell.Tab.0.right/0.23.1280.964@0.23.1280.964" timestamp="1596330906915" />
+    <state x="37" y="57" key="SettingsEditor" timestamp="1596330458557">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state x="37" y="57" key="SettingsEditor/0.23.1280.964@0.23.1280.964" timestamp="1596330458557" />
   </component>
 </project>
