@@ -1,2 +1,2 @@
-# _My_Portfolio
-minimal portfolio template for Developers
+# My Portfolio
+**minimal portfolio template for Developers**
