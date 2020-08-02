@@ -4,7 +4,7 @@
 ## Features
 
 📍 Modern UI Design + Reveal Animations\
-📍 One Page Layout\
+📍 One-Page Layout\
 📍 Styled with Bootstrap v4.3 + Custom SCSS\
 📍 Fully Responsive\
 📍 Valid HTML5 & CSS3\
@@ -17,7 +17,8 @@ To view a demo example, **[click here](https://manhal-portfolio.netlify.app/)**
 
 ## Getting Started 🚀
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.\
+ See deployment for notes on how to deploy the project on a live system.
 
 
 ### Prerequisites 📋
