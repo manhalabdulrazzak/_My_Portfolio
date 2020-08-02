@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ca845e6b-80ec-4069-89cc-f5a75ce85804" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/template.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/template.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1596329826629</updated>
-      <workItem from="1596329828118" duration="9087000" />
+      <workItem from="1596329828118" duration="10747000" />
     </task>
     <servers />
   </component>
@@ -94,5 +94,9 @@
       <screen x="0" y="23" width="1280" height="964" />
     </state>
     <state x="37" y="57" key="SettingsEditor/0.23.1280.964@0.23.1280.964" timestamp="1596330458557" />
+    <state x="140" y="182" key="Vcs.Push.Dialog.v2" timestamp="1596339526224">
+      <screen x="0" y="23" width="1280" height="964" />
+    </state>
+    <state x="140" y="182" key="Vcs.Push.Dialog.v2/0.23.1280.964@0.23.1280.964" timestamp="1596339526224" />
   </component>
 </project>

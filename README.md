@@ -11,7 +11,7 @@
 📍 Optimized with Webpack\
 📍 Well organized documentation
 
-To view a demo example, **[click here](https://simplfolio.netlify.com/)**\
+To view a demo example, **[click here](https://manhal-portfolio.netlify.app/)**\
 
 ---
 
@@ -43,10 +43,10 @@ From your command line, first clone Portfolio:
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/manhalabdulrazzak/Portfolio.git
+$ git clone https://github.com/manhalabdulrazzak/_My_Portfolio
 
 # Go into the repository
-$ cd Portfolio
+$ cd My Portfolio
 
 # Remove current origin repository
 $ git remote remove origin
